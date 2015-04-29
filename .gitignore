@@ -1,0 +1,7 @@
+debug
+*.sln
+Win32
+*.sdf
+*.suo
+Release
+
